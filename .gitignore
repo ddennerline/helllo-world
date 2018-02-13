@@ -1,0 +1,9 @@
+*.o
+hello_world
+*.*~
+MakeCache.txt
+CMakeFiles/
+HelloConfig.h
+cmake_install.cmake
+HelloWorld
+CMakeCache.txt
